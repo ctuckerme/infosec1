@@ -1,4 +1,5 @@
-Hardening targets
+'''
+**Hardening targets**
 • No system is secure with the default configurations
   – You need some guidelines to keep everything safe
 • Hardening guides are specific to the software or
@@ -7,7 +8,7 @@ platform
     Internet interest group
   – They’ll have the best details
 • Other general-purpose guides are available online
-Mobile devices
+**Mobile devices**
 • Always-connected mobile technologies
   – Phones, tablets, etc.
   – Hardening checklists are available from manufacturers
@@ -48,3 +49,4 @@ and permissions
   – All devices accessing the cloud should be secure
 • Always have backups
   – Cloud to Cloud (C2C)
+'''
